@@ -8,6 +8,5 @@
 使用匯率API https://freecurrencyapi.com/docs/latest
 <br>顯示台幣與主要外幣匯率
 
-Demo:
-https://youtu.be/aPyuRrE_SRA
+[Demo](https://www.youtube.com/watch?v=69WlsXlDLmg)
 
